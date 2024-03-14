@@ -13,3 +13,7 @@ variables de salida
 
 cantidad a pagar
 # DISEÑO
+
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
+
+# CONSTRUCCION
